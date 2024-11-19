@@ -1,0 +1,15 @@
+- Create DATABASE
+Create Database University;
+use University;
+
+-Creating TABLE 
+Syntax-
+create table (TABLENAME);
+
+create table Students
+(
+    S_ID int,
+    S_Name varchar(30),
+    S_DOB date,
+    S_age int
+);

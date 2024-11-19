@@ -1,0 +1,6 @@
+- There are two important phases of managing Database
+1- Storing the data permanently
+2- Retrieving the data efficiently
+
+
+- Retrieve data from database 
